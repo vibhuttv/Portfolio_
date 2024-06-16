@@ -14,10 +14,10 @@ export default function Contact() {
                     <p className="subTitle contact-subtitle">{contactInfo.subtitle}</p>
 
                     <div className="contact-text-div">
-                        <a className="contact-detail" href={"tel:" + contactInfo.number}>{"XXX-XXX-XXXX"}</a>
+                        <a className="contact-detail" href={"tel:" + contactInfo.number}>{"+91 7719596633"}</a>
                         <br/><br/>
                         <a className="contact-detail-email"
-                           href={"mailto:" + contactInfo.email_address}>{"devpro@gmail.com"}</a>
+                           href={"mailto:" + contactInfo.email_address}>{"vibhuk2003@gmail.com"}</a>
                         <br/><br/>
                         <SocialMedia/>
                     </div>
