@@ -17,7 +17,7 @@ const greeting = {
 
 const socialMediaLinks = {
 
-  github: "https://github.com/naveenjujaray",
+  github: "https://github.com/vibhuttv",
   linkedin: "https://www.linkedin.com/in/vibhukhullar/",
   // gmail: "jujaraynaveen@gmail.com",
   // facebook: "https://www.facebook.com/naveenjujaray",
