@@ -194,6 +194,7 @@ const achievementSection = {
 
 // Blogs Section
 
+
 const blogSection = {
 
   title: "Blogs",
@@ -201,14 +202,14 @@ const blogSection = {
 
   blogs: [
     {
-      url: "https://naveenjujaray.js.org/buildblogusingjekyll",
-      title: "Build A Blog Using Jekyll And Deploy To Github Pages And Set Custom Domain",
-      description: "I recently decided to start a blog. I had used Wordpress in the past, so I knew I could get my blog up and running quickly using Wordpress. I was also slightly familiar with Jekyll. Doing a google search and reading a few blog posts educated me on benefits of Jekyll and static sites in general. I explored Jekyll a little more and loved it immediately."
+      url: "",
+      title: "My Blog 1",
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est laboriosam quos explicabo consequatur odio. Aut delectus alias saepe exercitationem culpa officia necessitatibus molestiae a, accusamus magnam quas ipsum debitis numquam"
     },
     {
-      url: "https://medium.com/@naveenjujaray/walls-ad-free-wallpapers-a-flutter-app-beae03309dc9",
-      title: "Walls — Ad Free Wallpapers a Flutter App",
-      description: "I’m a noob to Android Development but Flutter made Android Development simple in a way that i had completed this app with no skills in span of 14 Days, if you’re interested in Flutter then you should check what i made."
+      url: "",
+      title: "My Blog 2",
+      description: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est laboriosam quos explicabo consequatur odio. Aut delectus alias saepe exercitationem culpa officia necessitatibus molestiae a, accusamus magnam quas ipsum debitis numquam"
     }
   ]
 };
