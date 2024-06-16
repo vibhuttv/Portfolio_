@@ -18,11 +18,10 @@ const greeting = {
 const socialMediaLinks = {
 
   github: "https://github.com/naveenjujaray",
-  linkedin: "https://www.linkedin.com/in/naveenjujaray/",
+  linkedin: "https://www.linkedin.com/in/vibhukhullar/",
   // gmail: "jujaraynaveen@gmail.com",
-  gitlab: "https://gitlab.com/naveenjujaray",
   // facebook: "https://www.facebook.com/naveenjujaray",
-  instagram: "https://www.instagram.com/naveenjujaray",
+  instagram: "https://www.instagram.com/vibhu__khullar?igsh=M3gxZ2FsdTl0eWYz",
   // twitter: "https://www.twitter.com/naveenjujaray",
   // Instagram and Twitter are also supported in the links!
 };
